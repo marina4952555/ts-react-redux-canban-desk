@@ -1,0 +1,48 @@
+{
+  "comments": [],
+  "desks": [
+    {
+      "deskAuthor": "Marina",
+      "deskDate": "16.03.2023 15:04",
+      "id": "51fef8e1-1950-4ba0-8e98-3a05bc4c9192",
+      "deskName": "Подготовка к празднику"
+    },
+    {
+      "deskAuthor": "Marina",
+      "deskDate": "22.09.2022 12:13",
+      "id": "c39cfe02-18de-429a-9359-a3b31d3a5d69",
+      "deskName": "Desk 2"
+    },
+    {
+      "deskAuthor": "Nikolai",
+      "deskDate": "22.09.2022 12:54",
+      "id": "5408c3bd-5d3a-4b57-8105-cd5a7d55f8da",
+      "deskName": "Desk 3"
+    },
+    {
+      "deskName": "Desk 4",
+      "deskAuthor": "Marina",
+      "id": "6c84b3dc-c567-4335-9041-6f4964175c52",
+      "deskDate": "23.09.2022 18:15"
+    },
+    {
+      "deskName": "Desk 8",
+      "deskAuthor": "Marina",
+      "deskDate": "28.09.2022 17:38",
+      "id": "2e821941-16e7-4c39-9ce8-df63cd6a62b9"
+    }
+  ],
+  "tasks": [
+    {
+      "taskName": "Купить украшения",
+      "taskAuthor": "Marina",
+      "perentid": "51fef8e1-1950-4ba0-8e98-3a05bc4c9192",
+      "id": "977c9f41-41a1-45e9-8f85-c78a0f61fffd",
+      "taskDate": "16.03.2023 15:52",
+      "taskDescription": ""
+    }
+  ],
+  "user": {
+    "name": "Marina"
+  }
+}

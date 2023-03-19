@@ -1,0 +1,24 @@
+.comment__list {
+  display: grid;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+.comment__item {
+  position: relative;
+  display: grid;
+  gap: 10px;
+  height: fit-content;
+  padding: 10px;
+  border: 1px solid #5f6368;
+  border-radius: 8px;
+}
+
+.comment__remove {
+  position: absolute;
+  top: 7px;
+  right: 10px;
+  color: #fff;
+  background-color: transparent;
+  border: none;
+}

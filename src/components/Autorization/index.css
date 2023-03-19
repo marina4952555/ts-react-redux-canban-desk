@@ -1,0 +1,28 @@
+.autorization {
+  display: grid;
+  justify-items: center;
+  gap: 20px;
+  padding: 50px;
+  margin: 20% auto 0;
+  max-width: 450px;
+  border: 1px solid #5f6368;
+  border-radius: 8px;
+}
+
+.autorization__input {
+  width: 100%;
+}
+
+.autorization__button {
+  padding: 10px 30px;
+  font-size: 15px;
+  background-color: #979797;
+  border: none;
+  border-radius: 8px;
+  color: #202124;
+  transition: 0.3s;
+}
+
+.autorization__button:hover {
+  background-color: #bbbbbb;
+}

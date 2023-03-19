@@ -1,0 +1,31 @@
+.desk__list {
+  display: grid;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+.desk__item {
+  position: relative;
+  display: grid;
+  gap: 10px;
+  height: fit-content;
+  padding: 10px;
+  border: 1px solid #5f6368;
+  border-radius: 8px;
+}
+
+.desk__heading {
+  display: flex;
+  align-items: center;
+}
+
+.desk-info__box {
+  display: flex;
+  justify-content: space-between;
+}
+
+@media (min-width: 1024px) {
+  .desk__list {
+    grid-template-columns: 1fr 1fr;
+  }
+}

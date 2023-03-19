@@ -1,0 +1,9 @@
+.button__remove {
+  position: absolute;
+  top: 7px;
+  right: 10px;
+  z-index: 1;
+  color: #fff;
+  background-color: transparent;
+  border: none;
+}
